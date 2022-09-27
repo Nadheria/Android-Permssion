@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission Check</string>
+    <string name="permissionInfo">Give the required permissions</string>
+
+</resources>

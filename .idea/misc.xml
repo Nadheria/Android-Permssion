@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/somgo/AndroidStudioProjects/PermissionFixWIthChcek/app/src/main/res/drawable/buttom_rouded_bg.xml" value="0.325" />
+        <entry key="..\:/Users/somgo/AndroidStudioProjects/PermissionFixWIthChcek/app/src/main/res/drawable/button_rounded_bg.xml" value="0.3635" />
+        <entry key="..\:/Users/somgo/AndroidStudioProjects/PermissionFixWIthChcek/app/src/main/res/drawable/rouded_bg.xml" value="0.325" />
+        <entry key="..\:/Users/somgo/AndroidStudioProjects/PermissionFixWIthChcek/app/src/main/res/layout/activity_camera.xml" value="0.3484375" />
+        <entry key="..\:/Users/somgo/AndroidStudioProjects/PermissionFixWIthChcek/app/src/main/res/layout/activity_main.xml" value="0.46842105263157896" />
+        <entry key="..\:/Users/somgo/AndroidStudioProjects/PermissionFixWIthChcek/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3635" />
+        <entry key="..\:/Users/somgo/AndroidStudioProjects/PermissionFixWIthChcek/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
